@@ -15,7 +15,7 @@
 <h4 align="center">Mobile App Developer</h4>
 <br>
 <p align="center">
-  📕 I'm a Software Engineer & Flutter Developer and Instructor from Egypt
+  📕 I'm a Software Engineer & Flutter Developer
   <br>
    Computer Science Student At October 6 University
   <br>
