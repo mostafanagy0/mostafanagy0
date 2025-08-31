@@ -17,7 +17,7 @@
 <p align="center">
   📕 I'm a Software Engineer & Flutter Developer
   <br>
-   Computer Science Student At October 6 University
+  Studed Computer Science At October 6 University
   <br>
   💻 I love writing code and learn anythings about it
   <br>
